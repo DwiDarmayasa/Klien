@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Celsius ke Fahrenheith</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonkonversisuhu">Konversi Suhu</string>
+    <string name="buttonprofile">Profile</string>
+    <string name="buttonkeluar">Keluar</string>
+    <string name="buttonkonversi">Konversi</string>
+    <string name="judul">Konversi Celsius ke Fahrenheith</string>
+    <string name="oleh">oleh Kelompok Jasmine</string>
+    <string name="inputcelsius">Masukan suhu dalam celsius</string>
+    <string name="outputfahrenheith">suhu dalam Fahrenheith</string>
+    <string name="judulprofile">Profile</string>
+    <string name="namadannim">Nama dan NIM anggota:</string>
+    <string name="chrisnama">Christopher Claude</string>
+    <string name="chrisnim">19103393</string>
+    <string name="yuyunnama">Ni Kadek Yuyun Prabayanti</string>
+    <string name="yuyunnim">19103077</string>
+    <string name="oktavianama">Jachinta Oktavia Naibaho</string>
+    <string name="oktavianim">19103106</string>
+    <string name="leonitanama">Ni Made Leonita Agustini</string>
+    <string name="leonitanim">19103079</string>
+    <string name="title_activity_konversi">KonversiActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+</resources>
